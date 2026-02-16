@@ -26,7 +26,7 @@ PharmaTech needs evidence on:
   - Correlation (disease duration vs HbA1c reduction)
 - Visualisations (time trend, boxplot, adverse events, scatter)
 
-## Key findings (so what?)
+## Key findings
 - Treatment group achieved a **significantly lower final HbA1c** vs placebo
 - HbA1c reduction showed a **clear group-by-time effect** across 24 months
 - **No significant difference** in overall adverse event frequency vs placebo
